@@ -81,7 +81,7 @@ Environmental/experimental conditions:
 
 Describe any quality-assurance procedures performed on the data: None
 
-People involved with sample collection, processing, analysis and/or submission: 
+People involved with sample collection, processing, analysis and/or submission: Abdulkadir Olatunbosun Biffo, Pedro Braga Groszewicz, Theodosios Famprikis
 
 
 DATA-SPECIFIC INFORMATION FOR: [FILENAME]
