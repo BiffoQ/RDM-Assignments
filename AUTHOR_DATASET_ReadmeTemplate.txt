@@ -5,18 +5,18 @@
 
 GENERAL INFORMATION
 
-Title of Dataset: SOFC experimental documentation
+Title of Dataset: Documentation on hexagonal perovskite derivatives electrolye materials for solid oxide fuel cell 
 
 Author/Principal Investigator Information
 Name: Biffo Abdulkadir Olatunbosun
-ORCID:
+ORCID:0009-0009-5351-4439
 Institution: Technical University of Delft
 Address: Gebouwnummer 50, Mekelweg 15, 2629 JB, Delft
 Email: a.o.biffo@tudelft.nl
 
 Author/Associate or Co-investigator Information
 Name: Pedro Braga Groszewicz
-ORCID:
+ORCID: 0000-0002-5246-6449
 Institution: Technical University of Delft
 Address: Gebouwnummer 50, Mekelweg 15, 2629 JB, Delft
 Email: p.groszewicz@tudelft.nl
@@ -25,7 +25,10 @@ Date of data collection: 2023-05-31
 
 Geographic location of data collection: Delft, The Netherlands
 
-Information about funding sources that supported the collection of the data: Electroceramics Society
+Information about funding sources that supported the collection of the data:
+
+ECCM National Agenda:
+A Dutch Research, Development & Innovation Agenda for a CO2-neutral industry based on renewable energy
 
 
 SHARING/ACCESS INFORMATION
@@ -63,7 +66,20 @@ When was the file updated?
 
 METHODOLOGICAL INFORMATION
 
-Description of methods used for collection/generation of data: raw data was collected from different devices. The device dictates the format of the file.
+Description of methods used for collection/generation of data: 
+
+X-ray diffraction
+The X-ray diffraction patterns were collected on a Panalytical X'Pert Pro X-ray diffractometer with a Cu K-alpha source in a 2θ range of 10 to 100° in reflection geometry. 
+Due to the moisture sensitivity of the samples, a custom-made airtight sample holder was used. 
+The sample holder consisted of a zero-diffraction silicon wafer (SilTronix), closed off with a kapton half-cylinder. 
+The instrument parameter file was created by measuring a LaB6 standard obtained from NIST [DOI: 10.1039/D2TA08433C].
+
+Impedance measurement -- a close description of the material studied is adapted from Sacha et al. [DOI: 10.1038/s41563-020-0629-4]
+
+Impedance spectroscopy measurements were recorded on a dense Ba7Nb4MoO20 pellet sample (roughly 10 mm diameter and 1 mm thickness) with a Solartron 1260 impedance analyser in the frequency range 0.1 Hz–1 MHz 
+with an applied alternating voltage of 0.1V. Pt electrodes were painted on both sides of the pellet using a Pt-paste subsequently cured at 900°C.
+Data were recorded on cooling from 800 °C in a sealed tube furnace under a flow of various gases, measuring roughly every 15°C and allowing 2h of equilibration at each temperature step.
+
 
 Methods for processing the data: Data was processed with different softwares depending on the information needed.
 
